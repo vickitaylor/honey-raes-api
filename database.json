@@ -81,6 +81,12 @@
       "specialty": "Printer Repair",
       "rate": 29.45,
       "userId": 6
+    },
+    {
+      "id": 4,
+      "specialty": "Network Repair",
+      "rate": 45.74,
+      "userId": 7
     }
   ],
   "serviceTickets": [
@@ -125,6 +131,13 @@
       "emergency": true,
       "dateCompleted": "",
       "id": 10
+    },
+    {
+      "userId": 2,
+      "description": "Screen is Blank",
+      "emergency": false,
+      "dateCompleted": "",
+      "id": 11
     }
   ],
   "employeeTickets": [
